@@ -116,6 +116,11 @@ main{
 	font-weight: 400;
 }
 
+.from-main .form-input{
+	margin: 15px 0;
+	width: 370px;
+}
+
 .from-main .form-input input,
 .from-main .form-input textarea{
 	width: 100%;
